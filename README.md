@@ -30,6 +30,14 @@ Working in platform infrastructure and operations, with exposure to Linux system
 
 [View publication (IEEE Xplore)](https://doi.org/10.1109/ICECE64886.2024.11025116)
 
+## Selected Academic Work
+
+- **[Drone-Based Urban Infrastructure Detection](https://github.com/nabilaislam11/drone-based-urban-infrastructure-detection)** — IEEE ICECE 2024 research using an original annotated drone-imagery dataset and YOLO model comparisons.
+- **[Advanced School Management System](https://github.com/nabilaislam11/advanced-school-management-system)** — PHP/Laravel academic information system with source code and relational data models.
+- **[Contextual Hate Speech Detection with CNNs](https://github.com/nabilaislam11/contextual-hate-speech-detection-cnn)** — academic NLP research and CNN-based classification analysis.
+- **[Contact Book Management System](https://github.com/nabilaislam11/python-contact-book-management-system)** — modular Python project with CSV data storage.
+- **[Portfolio website](https://nabilaislam11.github.io/nabila-portfolio/)** — academic and engineering projects, research, and experience.
+
 ## Technical Interests
 
 - Platform Infrastructure & DevOps
