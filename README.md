@@ -55,11 +55,12 @@ My five undergraduate projects and thesis include database-backed web applicatio
 ## Leadership & Activities
 
 **Assistant Director (AD)**  
-BRAC University Entrepreneurship Development Forum (BUEDF)
+BRAC University Entrepreneurship Development Forum (BUEDF) | June 2021 – February 2023  
+Managed and coordinated large student teams, supporting group activities and collaboration.
 
 **General Secretary**  
 BRAC University Drama and Theatre Forum (BUDTF) | August 2021 – October 2025  
-Participated in drama productions, hosted numerous club programs and events, and coordinated activities, rehearsals, and member engagement. Previously served as Secretary, IT & HR.
+Performed in stage dramas, anchored numerous club programs and events, and coordinated club activities, rehearsals, and member engagement. Previously served as Secretary, IT & HR.
 
 **Taekwondo**  
 Green belt; four competition medals (silver and bronze) at national and district levels.
