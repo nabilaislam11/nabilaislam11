@@ -15,7 +15,7 @@ Graduated: 2025
 **System Engineer — Platform Infrastructure & DevOps**  
 Nagad | April 2026 – Present
 
-Working in platform infrastructure and operations, with exposure to Linux systems, containerization, monitoring, and infrastructure reliability.
+I support Linux infrastructure and application deployments, monitor service health, and troubleshoot operational issues.
 
 ## Research Publication
 
@@ -58,8 +58,9 @@ My five undergraduate projects and thesis include database-backed web applicatio
 BRAC University Entrepreneurship Development Forum (BUEDF) | June 2021 – February 2023  
 Managed and coordinated large student teams, supporting group activities and collaboration.
 
-**General Secretary**  
-BRAC University Drama and Theatre Forum (BUDTF) | August 2021 – October 2025  
+**BRAC University Drama and Theatre Forum (BUDTF)**  
+Club involvement · August 2021–October 2025  
+Roles held · General Secretary and Secretary, IT & HR  
 Performed in stage dramas, anchored numerous club programs and events, and coordinated club activities, rehearsals, and member engagement. Previously served as Secretary, IT & HR.
 
 **Taekwondo**  
