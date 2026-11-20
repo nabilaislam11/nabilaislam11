@@ -32,11 +32,16 @@ Working in platform infrastructure and operations, with exposure to Linux system
 
 ## Selected Academic Work
 
-- **[Drone-Based Urban Infrastructure Detection](https://github.com/nabilaislam11/drone-based-urban-infrastructure-detection)** — IEEE ICECE 2024 research using an original annotated drone-imagery dataset and YOLO model comparisons.
-- **[Advanced School Management System](https://github.com/nabilaislam11/advanced-school-management-system)** — PHP/Laravel academic information system with source code and relational data models.
-- **[Contextual Hate Speech Detection with CNNs](https://github.com/nabilaislam11/contextual-hate-speech-detection-cnn)** — academic NLP research and CNN-based classification analysis.
-- **[Contact Book Management System](https://github.com/nabilaislam11/python-contact-book-management-system)** — modular Python project with CSV data storage.
-- **[Portfolio website](https://nabilaislam11.github.io/nabila-portfolio/)** — academic and engineering projects, research, and experience.
+My six principal academic projects include database-backed web applications, embedded systems, low-level programming, natural language processing, and computer vision research.
+
+1. **[Advanced School Management System](https://github.com/nabilaislam11/advanced-school-management-system)** — Laravel/PHP school administration application with database models, student records and academic workflows.
+2. **[Advanced Book Shop Management System](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/02-advanced-book-shop)** — CSE370 PHP/MySQL bookshop ordering and inventory system, with the original group-project source and database schema.
+3. **[Advanced Fire and Smoke Detection System](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/03-fire-smoke-cse360)** — CSE360 Arduino-based group project, with the original report and source archives.
+4. **[Assembly Password Checking Tool](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/04-assembly-password-checker)** — NASM x86-64 password-policy checker, with source and automated tests.
+5. **[Contextual Hate Speech Detection Using CNNs](https://github.com/nabilaislam11/contextual-hate-speech-detection-cnn)** — academic NLP research studying CNN classification and class imbalance.
+6. **[Drone-Based Urban Infrastructure Detection](https://github.com/nabilaislam11/drone-based-urban-infrastructure-detection)** — IEEE ICECE 2024 research applying object detection to original Bangladesh drone imagery.
+
+**Additional projects:** [Python Contact Book Management](https://github.com/nabilaislam11/python-contact-book-management-system) · [Flask Book Shop Application](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/02-shelfwise) · [Fire and Smoke Image Analysis](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/03-pyrowatch) · [Portfolio website](https://nabilaislam11.github.io/nabila-portfolio/)
 
 ## Technical Interests
 
