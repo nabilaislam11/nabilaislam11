@@ -32,7 +32,7 @@ Working in platform infrastructure and operations, with exposure to Linux system
 
 ## Selected Academic Work
 
-My six principal academic projects include database-backed web applications, embedded systems, low-level programming, natural language processing, and computer vision research.
+My five undergraduate projects and thesis include database-backed web applications, embedded systems, low-level programming, natural language processing, and computer vision research.
 
 1. **[Advanced School Management System](https://github.com/nabilaislam11/advanced-school-management-system)** — Laravel/PHP school administration application with database models, student records and academic workflows.
 2. **[Advanced Book Shop Management System](https://github.com/nabilaislam11/nabila-portfolio/tree/main/projects/02-advanced-book-shop)** — CSE370 PHP/MySQL bookshop ordering and inventory system, with the original group-project source and database schema.
@@ -59,6 +59,9 @@ BRAC University Entrepreneurship Development Forum (BUEDF)
 
 **General Secretary**  
 BRACU Drama & Theatre Forum | 2025
+
+**Taekwondo**  
+Green belt; four competition medals (silver and bronze) at national and district levels.
 
 ## Current Focus
 
