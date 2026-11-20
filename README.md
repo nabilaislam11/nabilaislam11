@@ -59,7 +59,7 @@ BRAC University Entrepreneurship Development Forum (BUEDF) | June 2021 – Febru
 Managed and coordinated large student teams, supporting group activities and collaboration.
 
 **BRAC University Drama and Theatre Forum (BUDTF)**  
-Club involvement · August 2021–October 2025  
+August 2021 – October 2025  
 Roles held · General Secretary and Secretary, IT & HR  
 Performed in stage dramas, anchored numerous club programs and events, and coordinated club activities, rehearsals, and member engagement. Previously served as Secretary, IT & HR.
 
