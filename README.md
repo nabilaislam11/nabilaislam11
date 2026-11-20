@@ -58,7 +58,8 @@ My five undergraduate projects and thesis include database-backed web applicatio
 BRAC University Entrepreneurship Development Forum (BUEDF)
 
 **General Secretary**  
-BRACU Drama & Theatre Forum | 2025
+BRAC University Drama and Theatre Forum (BUDTF) | January–September 2025  
+Coordinated member onboarding, rehearsals, events, and casting for university productions. Previously served as Secretary, IT & HR.
 
 **Taekwondo**  
 Green belt; four competition medals (silver and bronze) at national and district levels.
