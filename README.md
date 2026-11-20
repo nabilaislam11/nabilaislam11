@@ -59,7 +59,7 @@ BRAC University Entrepreneurship Development Forum (BUEDF)
 
 **General Secretary**  
 BRAC University Drama and Theatre Forum (BUDTF) | August 2021 – October 2025  
-Coordinated member onboarding, rehearsals, events, and casting for university productions. Previously served as Secretary, IT & HR.
+Participated in drama productions, hosted numerous club programs and events, and coordinated activities, rehearsals, and member engagement. Previously served as Secretary, IT & HR.
 
 **Taekwondo**  
 Green belt; four competition medals (silver and bronze) at national and district levels.
